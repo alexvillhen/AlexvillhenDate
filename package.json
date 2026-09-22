@@ -1,0 +1,13 @@
+{
+  "name": "AlexvillhenDate",
+  "version": "1.0.0",
+  "description": "Utilidad para manejar fechas en distintos formatos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexvillhen",
+  "license": "MIT",
+  "type": "commonjs"
+}
